@@ -10,7 +10,7 @@ export const homeObjOne = {
   img: require('../../images/Untitled design.png'),
   alt: 'Credit Card',
   start: ''
-};
+}; 
 
 export const homeObjTwo = {
   primary: true,

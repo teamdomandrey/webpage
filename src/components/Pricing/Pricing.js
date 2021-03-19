@@ -10,8 +10,6 @@ import {
   PricingCardInfo,
   PricingCardIcon,
   PricingCardPlan,
-  PricingCardCost,
-  PricingCardLength,
   PricingCardFeatures,
   PricingCardFeature
 } from './Pricing.elements';
