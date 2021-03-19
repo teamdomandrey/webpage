@@ -89,7 +89,7 @@ export const FooterLinkItems = styled.div`
   align-items: flex-start;
   margin: 16px;
   text-align: left;
-  width: 160px;
+  width: 200px;
   box-sizing: border-box;
   color: #fff;
 
@@ -102,6 +102,7 @@ export const FooterLinkItems = styled.div`
 
 export const FooterLinkTitle = styled.h2`
   margin-bottom: 16px;
+  text-align: flex;
 `;
 
 export const FooterLink = styled(Link)`
